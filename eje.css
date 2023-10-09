@@ -1,15 +1,14 @@
 #fila1{
-    background-color:yellow;
+    background-color:rgb(216, 216, 110);
+    
 }
 #header1{
-    float: left;
     width: 25%;
-    
+    float: left;
 }
 #header2{
-    float: left;
     width: 75%;
-    
+       
 }
 #fila2{
     background-color: rgb(255, 136, 0);
