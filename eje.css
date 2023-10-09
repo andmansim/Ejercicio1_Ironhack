@@ -1,7 +1,14 @@
-header{
+#fila1{
     background-color:yellow;
+}
+#header1{
     float: left;
     width: 25%;
+    
+}
+#header2{
+    float: left;
+    width: 75%;
     
 }
 #fila2{
